@@ -23,9 +23,14 @@ function activate(context) {
 				//for every line we want to know if there are some //en
 				if(array[line].indexOf('//') != -1 ){
 					//with this we delete the lines with //en of the array
-					console.log(line)
-					array.splice(line,1);
-					line--;
+					if(array[line].indexOf('//') == 0){
+						array.splice(line,1);
+						line--;
+					} else {
+						//if you are here it means that the comment was in the middle of the line
+						array[line] = array[line].substring(array[line].indexOf('//')+4, array[line].length);
+					}
+
 					//console.log(array);
 				} else{
 				//do nothing because there are no //en in that line	

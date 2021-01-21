@@ -34,7 +34,6 @@ If you have any requirements or dependencies, add a section describing those and
 
 ## Known Issues
 
-- comments on the same line than code there are not working
 
 ## Release Notes
 
