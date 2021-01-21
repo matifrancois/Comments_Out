@@ -15,12 +15,6 @@ function activate(context) {
 			var key = '//en'
 			var re = new RegExp(key, 'g');
 			var count = (text.match(re) || []).length;
-			// // //the i find the number of lines in the file
-			// // var llave = '\n'
-			// // var reg = new RegExp(llave, 'g');
-			// // var lines = (text.match(reg) || []).length;
-			// //console.log(counter);
-			// // console.log(count);
 			//then we split the text to get an array of the text inside every line
 			var array = text.split("\n");
 			var numOfLines = array.length;
@@ -52,16 +46,3 @@ function activate(context) {
     context.subscriptions.push(disposable);
 }
 exports.activate = activate;
-
-//++++++++++++++++++++++++++++++
-//      Texto de prueba
-//++++++++++++++++++++++++++++++
- 
-// //enme la suda tu comentario
-// yo muy bien gracias
-// que bueno
-// //en sisi la verdad
-// y vos?
-// //en bien
-// //en gracias
-// //en por preguntar
