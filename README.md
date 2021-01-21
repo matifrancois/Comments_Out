@@ -8,9 +8,14 @@ This repo has the code of the visual studio code extension Comments Out, this is
 - C++
 - C#
 - JavaScript
-- Jquery
+- Java
+- Perl
 - PHP
-- SCALA
+- Python
+- R
+- Ruby
+
+
 
 ## Features
 
@@ -30,7 +35,6 @@ If you have any requirements or dependencies, add a section describing those and
 
 - Multilines comments
 
-- different languages supports
 
 ## Known Issues
 
@@ -41,6 +45,11 @@ Users appreciate release notes as you update your extension.
 
 ### 1.0.0
 
-Initial release of Comments Out
+- Initial release of Comments Out
+
+### 1.0.1
+
+- Different languages support added 
+- Fix some unespected problems
 
 

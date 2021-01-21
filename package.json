@@ -1,13 +1,13 @@
 {
-	"name": "CommentsOut",
+	"name": "comments_out",
 	"displayName": "CommentsOut",
 	"description": "this extension allows you to remove the comments on your code",
-	"version": "0.0.1",
+	"version": "1.0.1",
 	"engines": {
 		"vscode": "^1.52.0"
 	},
 	"categories": [
-		"Comments"
+		"Visualization"
 	],
 	"activationEvents": [
 		"onCommand:CommentsOut.commentsOut"
