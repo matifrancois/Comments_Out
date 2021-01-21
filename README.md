@@ -1,6 +1,34 @@
-# Comments Out
+<h1 align="center">
+  <br>
+  Comments Out
+  <br>
+  <br>
+</h1>
+
+<p align="center">
+   • <a href="#what-is-it">What it is</a>
+   • <a href="#features">Features</a>
+   • <a href="#languajes-support">Languajes support</a>
+   • <a href="#requirements-to-run">Requirements to run</a>
+   • <a href="#todo">Todo</a>
+   • <a href="#known-issues">Known Issues</a>
+   • <a href="#release-notes">Release Notes</a>
+</p>
+
+## What it is
 
 This repo has the code of the visual studio code extension Comments Out, this is an extension that allows you to clear all the comments in your code.
+
+
+## Features
+
+At the moment the main feature is the possibility of deleting all the comments of the code in any of the languages allowed.
+
+To do that in the file that you want to change need to open the Command Palette (ctrol + shift + p (windows)) and then select "Comments Out".
+
+<br>
+<img src="demo/demo.gif" width="500" title="comments out working">
+<br>
 
 ## Languajes support
 
@@ -15,21 +43,11 @@ This repo has the code of the visual studio code extension Comments Out, this is
 - R
 - Ruby
 
-
-
-## Features
-
-Describe specific features of your extension including screenshots of your extension in action. Image paths are relative to this README file.
-
-For example if there is an image subfolder under your extension project workspace:
-
-\!\[feature X\]\(images/feature-x.png\)
-
-> Tip: Many popular extensions utilize animations. This is an excellent way to show off your extension! We recommend short, focused animations that are easy to follow.
-
 ## Requirements to run
 
-If you have any requirements or dependencies, add a section describing those and how to install and configure them.
+You can run the program by cloning this repository and using the debugging function in Visual Studio code to verify the operation of this extension.
+
+Once you run the extension with the debugging window, there appear a window where you will be able to use the extension.
 
 ## TODO
 
@@ -38,6 +56,7 @@ If you have any requirements or dependencies, add a section describing those and
 
 ## Known Issues
 
+- Nothing at the moment
 
 ## Release Notes
 
