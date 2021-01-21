@@ -1,9 +1,11 @@
 <h1 align="center">
   <br>
+  <img src="demo/images/CommentsOut_no_text.png" alt="StressApp" width="130">
+<br>
   Comments Out
   <br>
-  <br>
 </h1>
+
 
 <p align="center">
    • <a href="#what-is-it">What it is</a>
