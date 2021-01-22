@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <img src="demo/images/CommentsOut_no_text.png" alt="StressApp" width="130">
+  <img src="commentsOut/demo/images/CommentsOut_no_text.png" alt="StressApp" width="130">
 <br>
   Comments Out
   <br>
@@ -29,7 +29,7 @@ At the moment the main feature is the possibility of deleting all the comments o
 To do that in the file that you want to change need to open the Command Palette (ctrol + shift + p (windows)) and then select "Comments Out".
 
 <br>
-<img src="demo/demo.gif" width="500" title="comments out working">
+<img src="commentsOut/demo/demo.gif" width="500" title="comments out working">
 <br>
 
 ## Languajes support
