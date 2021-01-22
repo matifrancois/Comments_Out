@@ -37,13 +37,19 @@ To do that in the file that you want to change need to open the Command Palette 
 - C
 - C++
 - C#
+- CSS
+- Go
+- HTML
+- Java
 - JavaScript
 - Java
+- LaTeX
 - Perl
-- PHP
 - Python
 - R
-- Ruby
+- Rust
+- Swift
+- XML
 
 ## Requirements to run
 
@@ -52,9 +58,6 @@ You can run the program by cloning this repository and using the debugging funct
 Once you run the extension with the debugging window, there appear a window where you will be able to use the extension.
 
 ## TODO
-
-- Multilines comments
-
 
 ## Known Issues
 
@@ -73,4 +76,8 @@ Users appreciate release notes as you update your extension.
 - Different languages support added 
 - Fix some unespected problems
 
+### 1.1.0
+
+- LaTeX, CSS, Go, HTML, Java, Rust, Swift, XML languages support added
+- Multilines comments added
 
