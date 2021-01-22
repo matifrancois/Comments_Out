@@ -8,6 +8,12 @@ int parseCmdLine(int argc, char *argv[], pCallback p, void *userData) {
     bool no_error;
     char * param, *value;
 
+    /* hola como
+    te va?, sisi bien
+    y vos?
+    bien bien creo */
+
+
     //for every item on argv
     for (int i = 1; i<argc; i++){
         param = argv[i];
