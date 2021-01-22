@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <img src="commentsOut/demo/images/CommentsOut_no_text.png" alt="StressApp" width="130">
+  <img src="commentsOut/demo/images/commentsOut_no_text.png" alt="StressApp" width="130">
 <br>
   Comments Out
   <br>
